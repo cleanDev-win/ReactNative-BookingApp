@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "klnkfnd-client",
+    "slug": "klnkfnd-client",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "androidStatusBar": {
+      "backgroundColor": "#9DCB3B"
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android":{
+      "package": "com.app.klnkfnd_test",
+      "versionCode": 1
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}

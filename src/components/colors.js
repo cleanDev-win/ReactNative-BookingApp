@@ -1,0 +1,11 @@
+export const grey = '#707070';
+export const lightgrey = '#AFAFAF';
+export const btn = '#9DCB3B';
+export const black = '#000000';
+// export const primary = '#4FC1DA';
+export const primary = '#3ae0e0';
+export const red = 'red';
+export const white = '#FFFFFF';
+export const fn_grey = '#bdc0c7';
+export const mainText = '#5B5B5B';
+export const title = '#636363';

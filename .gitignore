@@ -1,0 +1,8 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+tsconfig.json
+jsconfig.json
+.log/**/*
+*.DS_Store
+.vscode/*

@@ -1,0 +1,1 @@
+export const API_URL = 'http://ec2-18-217-128-186.us-east-2.compute.amazonaws.com:8000/api/v1';
